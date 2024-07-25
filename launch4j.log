@@ -1,0 +1,320 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;  ;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+JRE paths:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;  ;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Check launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe (OK)
+Check javac:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javac.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\Painel.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+JRE paths:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Check launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\Painel.exe"
+Args length:	76/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	Java
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\Java\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java -cp .;mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\java -cp .\bin\javaw.exe (not found)
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java -cp .;mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\java -cp .\bin\javaw.exe (not found)
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+JRE paths:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Check launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+JRE paths:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Check launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+JRE paths:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Check launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+JRE paths:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Check launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java -cp .;mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\java -cp .\bin\javaw.exe (not found)
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java -cp .;mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\java -cp .\bin\javaw.exe (not found)
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java -cp .;mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\java -cp .\bin\javaw.exe (not found)
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+JRE paths:	java -cp .;mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\java -cp .\bin\javaw.exe (not found)
+Check launcher:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\mssql-jdbc-12.2.0.jre11.jar PainelDeUrgencia\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	PainelDeUrgencia
+Working dir:	C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+JRE paths:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Program Files (x86)\Veridis\Biometric SDK\bin\x86;C:\Program Files\Java\jdk-11.0.7\bin;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;;C:\Sybase\shared;;C:\Sybase\im6\tutorial;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\joao.almeida\AppData\Local\Programs\Python\Python310\;C:\Smart\PB19DKR3;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Smart\Pb12dk;C:\Smart\Pb6dk;C:\Program Files (x86)\Appeon\Shared\PowerBuilder\;C:\Smart\PB19DKR3;C:\Users\joao.almeida\AppData\Local\Microsoft\WindowsApps;C:\Program Files\jdk-20.0.2\bin;C:\SYBASE\SQLANY~1.0\WIN32;C:\SYBASE\IM6;C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin
+Check launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\joao.almeida\Downloads\jdk-20.0.2_windows-x64_bin\jdk-20.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\joao.almeida\IdeaProjects\Projeto\src\Projeto\src\PainelDeUrgencia.exe"
+Args length:	86/32768 chars
+Exit code:	0

@@ -1,0 +1,4 @@
+Main-Class: PainelDeUrgencia
+Class-Path: mssql-jdbc-12.2.0.jre11.jar
+
+
